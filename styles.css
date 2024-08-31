@@ -37,6 +37,10 @@ body {
     padding: 25px;
 }
 
+.empty {
+    background-color: transparent;
+}
+
 button {
     width: 100px;
     height: 100px;
